@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Software Development
 - 💬 Ask me about VueJS
 - 📫 How to reach me: [@imadzguy](https://twitter.com/imadzguy)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I speak Turkmen language
