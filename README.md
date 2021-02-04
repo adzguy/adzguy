@@ -7,4 +7,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [@imadzguy](https://twitter.com/imadzguy)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak Turkmen/Turkish language
