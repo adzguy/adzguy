@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JAMstack
+- 🔭 I’m currently working on Flask Web App
 - 🌱 I’m currently learning VueJS/NuxtJS
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Software Development
