@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working on Appointment Reminder App using Flask framework
+- 🔭 Currently working on Appointment Reminder App
 - 🌱 Learning VueJS & Django & Tailwind & Microservices
-- 💬 Ask me about anything
+- 💬 Ask me about Tech, Dev Stacks, and Python 
 - 📫 How to reach me: [Twitter](https://twitter.com/imadzguy)
